@@ -1,0 +1,15 @@
+C:\Users\Pc Gamer Top\Desktop\Trabalhos Puc\Algoritmos e tecnicas de programacao\bin\Debug\net7.0\Algoritmos e tecnicas de programacao.exe
+C:\Users\Pc Gamer Top\Desktop\Trabalhos Puc\Algoritmos e tecnicas de programacao\bin\Debug\net7.0\Algoritmos e tecnicas de programacao.deps.json
+C:\Users\Pc Gamer Top\Desktop\Trabalhos Puc\Algoritmos e tecnicas de programacao\bin\Debug\net7.0\Algoritmos e tecnicas de programacao.runtimeconfig.json
+C:\Users\Pc Gamer Top\Desktop\Trabalhos Puc\Algoritmos e tecnicas de programacao\bin\Debug\net7.0\Algoritmos e tecnicas de programacao.dll
+C:\Users\Pc Gamer Top\Desktop\Trabalhos Puc\Algoritmos e tecnicas de programacao\bin\Debug\net7.0\Algoritmos e tecnicas de programacao.pdb
+C:\Users\Pc Gamer Top\Desktop\Trabalhos Puc\Algoritmos e tecnicas de programacao\obj\Debug\net7.0\Algoritmos e tecnicas de programacao.csproj.AssemblyReference.cache
+C:\Users\Pc Gamer Top\Desktop\Trabalhos Puc\Algoritmos e tecnicas de programacao\obj\Debug\net7.0\Algoritmos e tecnicas de programacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc Gamer Top\Desktop\Trabalhos Puc\Algoritmos e tecnicas de programacao\obj\Debug\net7.0\Algoritmos e tecnicas de programacao.AssemblyInfoInputs.cache
+C:\Users\Pc Gamer Top\Desktop\Trabalhos Puc\Algoritmos e tecnicas de programacao\obj\Debug\net7.0\Algoritmos e tecnicas de programacao.AssemblyInfo.cs
+C:\Users\Pc Gamer Top\Desktop\Trabalhos Puc\Algoritmos e tecnicas de programacao\obj\Debug\net7.0\Algoritmos e tecnicas de programacao.csproj.CoreCompileInputs.cache
+C:\Users\Pc Gamer Top\Desktop\Trabalhos Puc\Algoritmos e tecnicas de programacao\obj\Debug\net7.0\Algoritmos e tecnicas de programacao.dll
+C:\Users\Pc Gamer Top\Desktop\Trabalhos Puc\Algoritmos e tecnicas de programacao\obj\Debug\net7.0\refint\Algoritmos e tecnicas de programacao.dll
+C:\Users\Pc Gamer Top\Desktop\Trabalhos Puc\Algoritmos e tecnicas de programacao\obj\Debug\net7.0\Algoritmos e tecnicas de programacao.pdb
+C:\Users\Pc Gamer Top\Desktop\Trabalhos Puc\Algoritmos e tecnicas de programacao\obj\Debug\net7.0\Algoritmos e tecnicas de programacao.genruntimeconfig.cache
+C:\Users\Pc Gamer Top\Desktop\Trabalhos Puc\Algoritmos e tecnicas de programacao\obj\Debug\net7.0\ref\Algoritmos e tecnicas de programacao.dll
